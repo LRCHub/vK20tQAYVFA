@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "青い春",
+  "base_artist": "SUPER BEAVER",
+  "createdAt": "2026-03-23T06:28:14.976940Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "青い春",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/01_青い春_back_number.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "青い春",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/02_青い春_back_number.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "青い春.虚無",
+      "artist": "Base Ball Bear",
+      "has_synced": false,
+      "path": "select/03_青い春.虚無_Base_Ball_Bear.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "青い春 - Aoi Haru",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/04_青い春_-_Aoi_Haru_back_number.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "青い春",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/05_青い春_back_number.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "青い春",
+      "artist": "edhiii boi",
+      "has_synced": true,
+      "path": "select/06_青い春_edhiii_boi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Back Number - 09.青い春",
+      "artist": "Back Number",
+      "has_synced": true,
+      "path": "select/07_Back_Number_-_09.青い春_Back_Number.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "青い春",
+      "artist": "SUPER BEAVER",
+      "has_synced": false,
+      "path": "select/pl_01_青い春_SUPER_BEAVER.txt"
+    }
+  ]
+}
